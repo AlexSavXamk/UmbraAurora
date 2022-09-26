@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: theBoyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/leg_leftik
+    m_Weight: 0
+  - m_Path: Armature/leg_leftik/leg_leftik_end
+    m_Weight: 0
+  - m_Path: Armature/leg_rightik
+    m_Weight: 0
+  - m_Path: Armature/leg_rightik/leg_rightik_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_left1
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_left1/leg_left2
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_left1/leg_left2/leg_left3
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_left1/leg_left2/leg_left3/leg_left4
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_left1/leg_left2/leg_left3/leg_left4/leg_left4_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_right1
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_right1/leg_right2
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_right1/leg_right2/leg_right3
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_right1/leg_right2/leg_right3/leg_right4
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/leg_right1/leg_right2/leg_right3/leg_right4/leg_right4_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left1
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left1/finger_left1_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left2
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left2/finger_left2_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left3
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_left1/arm_left2/finger_left3/finger_left3_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right1
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right1/finger_right1_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right2
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right2/finger_right2_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right3
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/arm_right1/arm_right2/finger_right3/finger_right3_end
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/neck
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/neck/head
+    m_Weight: 1
+  - m_Path: Armature/spinelower_root/spineupper/neck/head/ear_left
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/neck/head/ear_left/ear_left_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/neck/head/ear_right
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/neck/head/ear_right/ear_right_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_left1
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_left1/wing_left2
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_left1/wing_left2/wing_left3
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_left1/wing_left2/wing_left3/wing_left3_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_right1
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_right1/wing_right2
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_right1/wing_right2/wing_right3
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/spineupper/wing_right1/wing_right2/wing_right3/wing_right3_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/tail1
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/tail1/tail2
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/tail1/tail2/tail3
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/tail1/tail2/tail3/tail3_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_left21
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_left21/wing_left22
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_left21/wing_left22/wing_left23
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_left21/wing_left22/wing_left23/wing_left23_end
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_right21
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_right21/wing_right22
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_right21/wing_right22/wing_right23
+    m_Weight: 0
+  - m_Path: Armature/spinelower_root/wing_right21/wing_right22/wing_right23/wing_right23_end
+    m_Weight: 0
+  - m_Path: theboi
+    m_Weight: 0
+  - m_Path: theboi.001
+    m_Weight: 0
